@@ -1,7 +1,15 @@
 {
     "misc": {
         "4IFIR Get List": "https://sintez.io/aio.zip",
-        "Jurassic World Evolution: Complete Edition v1.0.5.54962": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FJurassic%20World%20Evolution%20-%20Complete%20Edition%2Fv1.0.5.54962&files=JWE_v1.0.5.54962_Switch_Graphics_Mod.zip",
-        "The Legend of Zelda: Breath of the Wild v1.6.0": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FThe%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%2Fv1.6.0&files=The_Legend_of_Zelda_Breath_of_the_Wild_v1.6.0_Switch_Graphics_Mod.zip"
+        "Jurassic World Evolution: Complete Edition v1.0.5.54962": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FJurassic%20World%20Evolution%20-%20Complete%20Edition%2Fv1.0.5.54962&files=JWE.zip",
+        "The Legend of Zelda: Breath of the Wild v1.6.0": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FThe%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%2Fv1.6.0&files=TLoZBotW.zip",
+        "Super Mario Odyssey v1.3.0": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FSuper%20Mario%20Odyssey%2Fv1.3.0&files=SMO.zip",
+        "Breathedge v1.0.2": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FBreathedge%2Fv1.0.2&files=B.zip",
+        "Lego Star Wars: The Skywalker Saga v1.0.7": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FLego%20Star%20Wars%20-%20The%20Skywalker%20Saga%2Fv1.0.7&files=LSWTSS.zip",
+        "Mario + Rabbids Kingdom Battle v1.9.589692": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FMario%20%2B%20Rabbids%20Kingdom%20Battle%2Fv1.9.589692&files=MRKB.zip",
+        "Alan Wake Remastered v1.0.1 m1": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FAlan%20Wake%20Remastered%2Fv1.0.1%2Fm1&files=AWR.zip",
+        "Alan Wake Remastered v1.0.1 m2": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FAlan%20Wake%20Remastered%2Fv1.0.1%2Fm2&files=AWR.zip",
+        "Hyrule Warriors: Age of Calamity v1.3.0": "https://cloud.sintez.io/s/4MODS/download?path=%2Fmodifications%2FHyrule%20Warriors%3A%20Age%20of%20Calamity&files=Hyrule_Warriors_Age_of_Calamity_v1.3.0_Eclipse.zip",
+        "Update list": "https://cloud.sintez.io/s/4MODS/download?path=%2F&files=aio.zip"
     }
 }
